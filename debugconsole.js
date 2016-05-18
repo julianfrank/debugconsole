@@ -3,7 +3,7 @@ var log
 window.onload = function () {
 
     //Update this as per need
-    var debugText = '',//Default Text in hte debug Console...Replace with you app Intro/copyright etc
+    var debugText = '',//Default Text in the debug Console...Replace with you app Intro/copyright etc
         debugBuffer = 4444,//Number of Characters you want in to be visible Including scrolled text
         debugRefreshDelay = 44,//How quickly you want the console to be refreshed. Use higher values if too much Logs are flowing and nothing difficult to read
         DISPLAYDEBUGLOG = true,// use false to NOT show and use debuglog in your app
