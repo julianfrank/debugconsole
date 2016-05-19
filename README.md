@@ -15,7 +15,7 @@ In future once a friendly CDN player uploads this repo, you should be able to ch
 Once this is done when the page is loaded in the browser the script exposes a log function. You can use it as follows:
 
 ```javascript
-log(<Your Text>)
+log("<Your Text>")
 ```
 
 The Script also inserts a transparent console window on the screen with sixe 25emx7em . When the mouse is over this screen it expands to fill about 75% of the screen width with black background.
