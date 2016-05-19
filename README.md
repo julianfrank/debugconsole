@@ -1,4 +1,4 @@
-# debugConsole
+# debugconsole
 A Simple Console HTML Console Viewer for Lazy Developers who do not want to open developerTools->Console everytime while building the app
 
 ## How to Use
@@ -6,7 +6,7 @@ Simple ... Just include the debugconsole.js file inside your HTML file
 
 For now download the file from the repository into your js directory and access using the <script> tag
 ''
-<script src="/js/debugConsole.js"></script>
+<script src="/js/debugconsole.js"></script>
 ''
 In future once a friendly CDN player uploads this repo, you should be able to change this script loading to point to CDN and receive the latest version/ specific version as per your design
 
